@@ -12,7 +12,6 @@ const Header = () => {
                 <Link to='/'>Home</Link>
                 <Link to='/donation'>Donation Campaigns</Link>
                 <Link to='/help'>How to Help</Link>
-                <Link to='/dashbord'>Dashboard</Link>
 
             </div>
             <button className='px-6 py-1 rounded text-white bg-blue-500 hover:bg-blue-600'>
