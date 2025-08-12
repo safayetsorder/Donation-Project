@@ -3,6 +3,8 @@ import { Route, Routes } from 'react-router';
 import Header from './Components/Shared/Header';
 import Footer from './Components/Shared/Footer';
 import HomePage from './Pages/HomePage';
+import DonationPage from './Pages/DonationPage';
+import DonationDetails from './Pages/DonationDetails';
 
 
 const App = () => {
@@ -11,9 +13,10 @@ const App = () => {
 
       <Header></Header>
       <Routes>
-        <Route path='/' element={<HomePage></HomePage>}>
-
-        </Route>
+        <Route path='/' element={<HomePage></HomePage>}></Route>
+        <Route path='/donation' element={<DonationPage></DonationPage>}
+        ></Route>
+        <Route path='/donation/:id' element={<DonationDetails></DonationDetails>}></Route>
       </Routes>
       <Footer></Footer>
 

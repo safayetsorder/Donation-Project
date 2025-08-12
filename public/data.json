@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "Emergency Flood Relief for Sylhet Communities",
+        "image": "https://images.unsplash.com/photo-1594736797933-d0c9e92ed2d0?w=400&h=300&fit=crop",
+        "description": "Urgent assistance needed for flood-affected families in Sylhet division. Providing emergency food, clean water, and temporary shelter materials.",
+        "status": "active",
+        "contactInfo": "Relief Coordinator: +880-1712-345678 | Email: sylhetrelief@helpbd.org",
+        "division": "Sylhet"
+    },
+    {
+        "id": 2,
+        "title": "Education Support for Underprivileged Children - Chittagong",
+        "image": "https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=400&h=300&fit=crop",
+        "description": "Help provide books, school supplies, and uniforms for children from low-income families in Chittagong division. Supporting 200+ students.",
+        "status": "active",
+        "contactInfo": "Education Team: +880-1856-234567 | Email: education@chittagongaid.org",
+        "division": "Chittagong"
+    },
+    {
+        "id": 3,
+        "title": "Winter Clothing Drive for Rangpur District",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+        "description": "Collecting warm clothes and blankets for elderly and homeless people in Rangpur division during the harsh winter season.",
+        "status": "active",
+        "contactInfo": "Winter Relief: +880-1923-456789 | Email: winterhelp@rangpurcare.org",
+        "division": "Rangpur"
+    },
+    {
+        "id": 4,
+        "title": "Clean Water Initiative for Rural Rajshahi",
+        "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=300&fit=crop",
+        "description": "Installing tube wells and water purification systems in remote villages of Rajshahi division to provide safe drinking water.",
+        "status": "active",
+        "contactInfo": "Water Project: +880-1745-678901 | Email: water@rajshahicare.bd",
+        "division": "Rajshahi"
+    },
+    {
+        "id": 5,
+        "title": "Medical Equipment for Barisal General Hospital",
+        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=400&h=300&fit=crop",
+        "description": "Fundraising to purchase essential medical equipment and supplies for the understaffed hospital serving Barisal division.",
+        "status": "active",
+        "contactInfo": "Medical Aid: +880-1634-789012 | Email: medical@barisalhealth.org",
+        "division": "Barisal"
+    },
+    {
+        "id": 6,
+        "title": "Khulna Mangrove Forest Conservation Project",
+        "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop",
+        "description": "Environmental conservation effort to protect and restore mangrove forests in Khulna division, supporting local ecosystems.",
+        "status": "active",
+        "contactInfo": "Conservation Team: +880-1567-890123 | Email: forest@khulnagreen.org",
+        "division": "Khulna"
+    },
+    {
+        "id": 7,
+        "title": "Emergency Healthcare for Rohingya Refugees - Cox's Bazar",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=300&fit=crop",
+        "description": "Providing essential medical care, medicines, and health services for Rohingya refugee families in Cox's Bazar camps.",
+        "status": "active",
+        "contactInfo": "Refugee Aid: +880-1789-012345 | Email: refugee@coxsbazarhelp.org",
+        "division": "Chittagong"
+    },
+    {
+        "id": 8,
+        "title": "Old Age Home Support - Dhaka Division",
+        "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=400&h=300&fit=crop",
+        "description": "Supporting elderly residents with medical care, nutritious meals, and recreational activities in old age homes across Dhaka division.",
+        "status": "active",
+        "contactInfo": "Elderly Care: +880-1612-345678 | Email: elderly@dhakacare.org",
+        "division": "Dhaka"
+    },
+    {
+        "id": 9,
+        "title": "Cyclone Recovery Fund - Coastal Barisal",
+        "image": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=300&fit=crop",
+        "description": "Emergency response fund for cyclone-affected coastal communities in Barisal division. Rebuilding homes and livelihoods.",
+        "status": "completed",
+        "contactInfo": "Disaster Relief: +880-1723-456789 | Email: cyclone@barisalrecovery.org",
+        "division": "Barisal"
+    },
+    {
+        "id": 10,
+        "title": "Digital Literacy Program for Rural Mymensingh",
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=300&fit=crop",
+        "description": "Teaching computer skills and digital literacy to youth in rural areas of Mymensingh division to improve employment opportunities.",
+        "status": "active",
+        "contactInfo": "Digital Team: +880-1834-567890 | Email: digital@mymensinghtech.org",
+        "division": "Mymensingh"
+    },
+    {
+        "id": 11,
+        "title": "Women's Empowerment Microfinance - Sylhet",
+        "image": "https://images.unsplash.com/photo-1594736797933-d0c9e92ed2d0?w=400&h=300&fit=crop",
+        "description": "Providing small loans and business training to women entrepreneurs in tea garden communities of Sylhet division.",
+        "status": "active",
+        "contactInfo": "Women's Program: +880-1945-678901 | Email: women@sylhetempowerment.org",
+        "division": "Sylhet"
+    },
+    {
+        "id": 12,
+        "title": "Street Children Rehabilitation - Dhaka",
+        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=400&h=300&fit=crop",
+        "description": "Comprehensive program providing shelter, education, and vocational training for street children in Dhaka division.",
+        "status": "active",
+        "contactInfo": "Child Welfare: +880-1656-789012 | Email: children@dhakastreet.org",
+        "division": "Dhaka"
+    },
+    {
+        "id": 13,
+        "title": "Agricultural Equipment for Farmers - Rangpur",
+        "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=400&h=300&fit=crop",
+        "description": "Purchasing modern farming equipment and tools for small-scale farmers in Rangpur division to increase crop productivity.",
+        "status": "active",
+        "contactInfo": "Farmer Support: +880-1767-890123 | Email: farming@rangpuragri.org",
+        "division": "Rangpur"
+    },
+    {
+        "id": 14,
+        "title": "Mental Health Support Center - Rajshahi",
+        "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop",
+        "description": "Establishing a community mental health center providing counseling and psychiatric care in Rajshahi division.",
+        "status": "pending",
+        "contactInfo": "Mental Health: +880-1878-901234 | Email: mentalhealth@rajshahicare.org",
+        "division": "Rajshahi"
+    },
+    {
+        "id": 15,
+        "title": "Disaster Preparedness Training - Khulna Coastal Areas",
+        "image": "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=400&h=300&fit=crop",
+        "description": "Training coastal communities in Khulna division on disaster preparedness, early warning systems, and emergency response.",
+        "status": "active",
+        "contactInfo": "Disaster Prep: +880-1589-012345 | Email: preparedness@khulnacoastal.org",
+        "division": "Khulna"
+    }
+]

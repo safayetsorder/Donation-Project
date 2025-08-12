@@ -27,9 +27,6 @@ const HeroSection = () => {
                     <img src="https://static.vecteezy.com/system/resources/previews/052/368/787/non_2x/frosty-landscape-at-sunrise-with-silhouetted-trees-in-winter-photo.jpeg" alt="" />
                 </SwiperSlide>
 
-                {/* <SwiperSlide>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25ge-EwMVhMcAsMV0qjAZjdRRg4Na7UiWOw&s" alt="" />
-            </SwiperSlide> */}
 
                 <SwiperSlide>
                     <img src="https://static.vecteezy.com/system/resources/previews/052/368/787/non_2x/frosty-landscape-at-sunrise-with-silhouetted-trees-in-winter-photo.jpeg" alt="" />
@@ -43,9 +40,6 @@ const HeroSection = () => {
                     <img src="https://static.vecteezy.com/system/resources/previews/052/368/787/non_2x/frosty-landscape-at-sunrise-with-silhouetted-trees-in-winter-photo.jpeg" alt="" />
                 </SwiperSlide>
 
-                {/* <SwiperSlide>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25ge-EwMVhMcAsMV0qjAZjdRRg4Na7UiWOw&s" alt="" />
-            </SwiperSlide> */}
                 ...
             </Swiper>
         </div>
